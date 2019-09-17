@@ -438,9 +438,7 @@ background-size: 100%;
 margin-top: -45px;
 height: 1000px;
 
-  background: #ffafbd; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ffafbd, #ffc3a0); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ffafbd, #ffc3a0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background:url(https://img.ivsky.com/img/tupian/pre/201707/05/shangwu_zhuomian.jpg);
 background-attachment: fixed;
 background-size: 100%;
 
